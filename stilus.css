@@ -1,0 +1,16 @@
+@charset "utf-8";
+main{width: 600px;
+margin: auto;}
+article{
+    text-align: center;
+    padding: auto;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    margin: 20px;
+}
+.lampa{
+    background-color: yellow;
+    border-radius: 50%;
+    
+}
